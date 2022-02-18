@@ -4,7 +4,7 @@ This is a single page blog application with multiple users and posts
 # Guide to this project
 
 ### Requirements
-Running MongoDB
+Running MongoDB </br>
 Node JS
 
 The project containes 2 folders.
